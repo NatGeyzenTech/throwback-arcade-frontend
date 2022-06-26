@@ -1,0 +1,55 @@
+.top-left, .top-right, footer {
+	position: absolute;
+}
+
+h1 {
+  padding-top: 3rem;
+	font-size: 250%;
+	font-weight: lighter;
+}
+
+h1 span {
+  display: block;
+
+}
+
+.title-red, .top-right {
+	color: #DA0D2C;
+}
+
+.title-yellow, .top-left {
+	color: #C1C930;
+}
+
+.title-yellow {
+  margin-top: -17.5px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+	font-variant: small-caps;
+	font-weight: bolder;
+	font-size: 100%;
+	cursor: pointer;
+}
+
+.top-left, .top-right {
+	top: 1rem;
+}
+
+.top-left {
+	left: 1rem;
+}
+
+.top-right {
+	right: 1rem;
+}
+
+footer {
+	bottom: 0;
+	width: 100vw;
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 75%;
+}
