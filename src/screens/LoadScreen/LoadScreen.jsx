@@ -1,4 +1,5 @@
 import './LoadScreen.css';
+import Nav from './Nav/Nav';
 
 const LoadScreen = () => {
   return (
@@ -11,9 +12,7 @@ const LoadScreen = () => {
         <button className="top-left">Sign in</button>
         <button className="top-right">Hi-scores</button>
       </header>
-			<nav>
-
-			</nav>
+			<Nav />
 			<footer>
 				<p className="footer-text top">
 					This is a personal project created for learning and demonstration purposes only, not for commercial use. <br/>

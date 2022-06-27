@@ -1,3 +1,7 @@
+.load-screen {
+ height: 100%;
+}
+
 .top-left, .top-right, footer {
 	position: absolute;
 }
