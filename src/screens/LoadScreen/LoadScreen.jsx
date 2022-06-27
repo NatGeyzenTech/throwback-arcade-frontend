@@ -17,7 +17,7 @@ const LoadScreen = () => {
 			<footer>
 				<p className="footer-text top">
 					This is a personal project created for learning and demonstration purposes only, not for commercial use. <br/>
-					All right for the games go to their respective copyright owners.
+					All rights for the games go to their respective copyright owners.
 				</p>
 			</footer>
     </section>

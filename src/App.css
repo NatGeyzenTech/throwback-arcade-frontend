@@ -9,5 +9,8 @@ html, body, h1 {
   text-align: center;
   background-color: #090909;
   color: #ffffff;
+}
+
+.App, button {
   font-family: "YouSheBiaoTiHei";
 }
