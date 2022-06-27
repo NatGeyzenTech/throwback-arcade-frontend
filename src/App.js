@@ -1,5 +1,5 @@
 import './App.css';
-import LoadScreen from './LoadScreen/LoadScreen';
+import LoadScreen from './screens/LoadScreen/LoadScreen';
 
 function App() {
   return (
